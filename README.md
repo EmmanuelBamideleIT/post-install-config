@@ -66,7 +66,7 @@ Enable the option "Registration Required: Require registration and login to crea
 <br />
 
 <p>
-<img src="https://imgur.com/iTKvTQv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/5Sb4eGF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Section 3: Configure Agents, Users, SLA, and Help Topics

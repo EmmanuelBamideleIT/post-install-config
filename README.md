@@ -50,7 +50,7 @@ Create a department named "System Administrators.".</p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/fMgu76z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Section 2: Configure Teams and User Settings

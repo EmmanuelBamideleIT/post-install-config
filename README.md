@@ -33,9 +33,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<p>
-<img src="https://imgur.com/xbXio15.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 <p>
 Section 1: Configure Roles and Departments
 
@@ -48,10 +46,10 @@ Configure Departments:
 Access Admin Panel -> Agents -> Departments.
 Create a department named "System Administrators.".</p>
 <br />
-
 <p>
-<img src="https://imgur.com/fMgu76z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/xbXio15.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
 <p>
 Section 2: Configure Teams and User Settings
 
@@ -64,10 +62,10 @@ Allow anyone to create tickets:
 Access Admin Panel -> Settings -> User Settings.
 Enable the option "Registration Required: Require registration and login to create tickets."</p>
 <br />
-
 <p>
-<img src="https://imgur.com/5Sb4eGF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/fMgu76z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
 <p>
 Section 3: Configure Agents, Users, SLA, and Help Topics
 
@@ -88,3 +86,6 @@ Configure Help Topics:
 Access Admin Panel -> Manage -> Help Topics.
 Create help topics for various issues, such as "Business Critical Outage," "Personal Computer Issues," "Equipment Request," and "Password Reset."</p>
 <br />
+<p>
+<img src="https://imgur.com/5Sb4eGF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
